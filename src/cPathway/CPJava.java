@@ -39,10 +39,9 @@ public class CPJava {
 		System.out.println("Pathway: " + PHold.Pathway);
 		System.out.println("SSN: " + PHold.SSN);
 		
-		System.out.println("==========================");
-		System.out.println("Personal Information");
-		System.out.println("==========================");
-		
+		System.out.println("  /|====================|  /");
+		System.out.println(" / |Personal Information| /");
+		System.out.println("/  |====================|/");
 		System.out.println("Gender: " + PHold.Gender);
 		System.out.println("Pronoun: " + PHold.Pronoun);
 		System.out.println("Preferred Name: " + PHold.Nickname);
